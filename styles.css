@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: mediumpurple;
+}
+.table {
+    width: 60%;
+    border: 2px blue solid;
+    margin-left: 20%;
+    
+}
+.table th {
+    background-color: white;
+}
+/* matterhorn village text  */
+.table p1 {
+    background-color: white;
+}
+/* wallowa lake text  */
+.table p2 {
+    background-color: white;
+}
+/* address text  */
+.table p3 {
+    background-color: white;
+}
+/* matterhorn image  */
+#matterhorn {
+    width: 400px;
+    margin-top: 100px;
+}
+/* cell color  */
+td {
+    background-color: white;
+}
+/* description text  */
+p {
+    background-color: white;
+    font-family: 'Rye';
+    padding: 20px;
+    font-size: 1.5rem;
+}
+/* main header  */
+.paragraphs p1 p2 p3 {
+    background-color: white;
+}
+/* header text  */
+.table p1 {
+    font-family: 'UnifrakturMaguntia';
+    font-size: 4rem;
+}
+.table p2 {
+    font-family: 'Rye';
+    font-size: 1.4rem;
+    margin-left: 5.1rem;
+}
+.table p3 {
+    font-family: 'Rye';
+    font-size: 0.8rem;
+}
+/* wallowa img row 2  */
+#wallowa {
+    width: 400px;
+    margin-top: -6rem;
+}
+/* ////////////////////////  */
+/* links to stuff, left margin 
+ */
+.links td {
+    
+    margin-top: 10px;
+}
+.links a {
+    text-decoration: none;
+    font-family: 'Rye';
+    margin: 30px;
+    color: black;
+    background-color: white;
+    
+}
+/* Mt. Pines adventure golf  */
+.links p {
+    font-size: 2.5rem;
+}
+/* now open  */
+.nowopen {
+    display: flex;
+    background-color: white;
+    
+}
+.nowopen p{
+    background-color: white;
+    margin-top: 3rem;
+    font-size: 2.5rem;
+    padding-bottom: 20px;
+
+}
+#nowopenimg {
+    background-color: white;
+    width: 120px;
+    height: auto;
+    margin-left: 25rem;
+    margin-top: 20px;
+}
+
+/* minigolf photos  */
+#minigolf1 {
+    width: 20rem;
+    margin-left: 4rem;
+    
+}
+#minigolf2 {
+    width: 20rem;
+    margin-left: 15rem;
+    margin-top: -3rem;
+    
+}
+#candyshack {
+    width: 20rem;
+    margin-top: -3rem;
+    margin-left: 4rem;
+}
+.minigolf {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+/* matterhorn image botton left  */
+#matterhorn1 {
+    width: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20rem;
+}
+
